@@ -9,3 +9,5 @@ randString := gorand.RandStrWithCharset(l,"abcdef")
 //random string of given length l
 randString := gorand.RandStr(l)
 ```
+## Reference
+https://www.calhoun.io/creating-random-strings-in-go/
