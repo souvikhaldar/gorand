@@ -1,6 +1,9 @@
 # gorand
 A simple golang package to generate random string 
 
+## Installation 
+`go get github.com/souvikhaldar/gorand`  
+
 ## Usage
 ```
 //random string on given set of characters "abcdef" of length l
